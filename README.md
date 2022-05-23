@@ -4,8 +4,11 @@
   * Major - Computer Science 💻
   * Minor - Swedish 🇸🇪
   * 🎓 in 2022
-* Disney-holic 🐭
 
+## Some Facts About Me
+* Physics Lover
+* Disney-holic 🐭
+* I like Backend >> Frontend
 
 ## Technical Stuff
 
