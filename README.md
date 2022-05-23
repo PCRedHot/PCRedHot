@@ -56,7 +56,37 @@
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
 
 ## Some Projects I've Worked On
- * HKU ENGG1340 Accounting System
+ * [Accounting System](https://github.com/PCRedHot/Accounting-System) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+   * A Simple Accounting System
+   * Account Tracking, Record Transctions, Accounting Reports
+ * [P2P Image Sharing System](https://github.com/PCRedHot/P2P_Image_Sharing_System) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+   * A Simple P2P Image Sharing System using ServerSocket
+ * [Heart Prediction Project](https://github.com/PCRedHot/EchoProject)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&logoColor=F37626)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=D00000)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy&logoColor=013243)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV&logoColor=5C3EE8)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
+![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=SciPy&logoColor=8CAAE6)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=FF6F00)
+   * Part of Deep Learning Based Heart Prediction Project
+     * Image Filtering
+     * Image Preprocessing
+     * Data Spacing Normalisation
+     * 3D Data View Reconstuction
+     * 3D Data Labelling Program
+     * 3D Data Intersection Controls
+     * Some Data Analysis too
+* [HotZone](https://github.com/PCRedHot/HotZone)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
+  * A COVID-19 Transmission Chains / Clusters Identification Program
 
 <!--
 **PCRedHot/PCRedHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
