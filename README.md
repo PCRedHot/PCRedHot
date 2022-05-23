@@ -80,6 +80,10 @@
      * 3D Data Labelling Program
      * 3D Data Intersection Controls
      * Some Data Analysis too
+* [HKU Guide](https://github.com/PCRedHot/hku_guide)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+   * A Guiding Mobile Application for HKU User 
 * [HotZone](https://github.com/PCRedHot/HotZone)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
