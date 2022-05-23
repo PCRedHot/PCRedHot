@@ -7,7 +7,7 @@
 * Disney-holic 🐭
 
 
-## Technical Parry
+## Technical Stuff
 
 **Languages Used**
 
