@@ -1,5 +1,3 @@
-# About Parry
-
 ![banner](https://github.com/PCRedHot/PCRedHot/blob/main/banner.gif)
 
 * Undergraduate at [The University of Hong Kong](https://www.hku.hk/)
@@ -43,6 +41,11 @@
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
+
+## Work Experience
+ * Junior Research Assistant at [HKU Business School](https://www.hkubs.hku.hk/)
+ * Student Research Assistant at [HKU CS](https://www.cs.hku.hk/)
+ * Performer at [HKDL](https://www.hongkongdisneyland.com/)
 
 
 <!--
