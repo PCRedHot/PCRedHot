@@ -28,18 +28,26 @@
 
 **Technologies and SaaS**
 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=3DDC84)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=FastAPI&logoColor=009688)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&logoColor=F37626)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=D00000)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy&logoColor=013243)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV&logoColor=5C3EE8)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
+![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=SciPy&logoColor=8CAAE6)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=FF6F00)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
 ## Work Experience
@@ -47,6 +55,8 @@
  * Student Research Assistant at [HKU CS](https://www.cs.hku.hk/)
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
 
+## Some Projects I've Worked On
+ * HKU ENGG1340 Accounting System
 
 <!--
 **PCRedHot/PCRedHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
