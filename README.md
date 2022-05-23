@@ -1,5 +1,7 @@
 # About Parry
 
+![banner](https://github.com/PCRedHot/PCRedHot/blob/main/banner.gif)
+
 * Undergraduate at [The University of Hong Kong](https://www.hku.hk/)
   * Major - Computer Science 💻
   * Minor - Swedish 🇸🇪
@@ -28,17 +30,18 @@
 
 **Technologies and SaaS**
 
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=FF9900)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=FF9900)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
-Qt ++
-Flutter ++
 
 
 <!--
