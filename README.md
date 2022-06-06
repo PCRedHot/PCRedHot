@@ -46,6 +46,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy&logoColor=013243)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV&logoColor=5C3EE8)
+![p5.js](https://img.shields.io/badge/-p5dotjs-000000?style=flat&logo=p5dotjs&logoColor=ED225D)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
 ![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=SciPy&logoColor=8CAAE6)
@@ -87,6 +88,13 @@
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
    * A Guiding Mobile Application for HKU User 
+* [Hydrogen Atom Visualisation](https://github.com/PCRedHot/Hydrogen-Atom-Visualisation)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+   * Visualisation of Electro Density Distribution of a 3p Hydrogen Atom
+* [Rayview Visualisation](https://github.com/PCRedHot/Rayview-Visualisation)
+![p5.js](https://img.shields.io/badge/-p5dotjs-000000?style=flat&logo=p5dotjs&logoColor=ED225D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+   * Visualisation of visibility from a viewpoint
 * [HotZone](https://github.com/PCRedHot/HotZone)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
