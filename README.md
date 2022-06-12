@@ -93,7 +93,7 @@
    * Visualisation of Electro Density Distribution of a *3p* Hydrogen Atom
 * [Softbody Simulation](https://github.com/PCRedHot/2D-Softbody-Simulation)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-   * Simulation of a softbody object
+   * Simulation of a softbody object using spring formula
 * [Rayview Visualisation](https://github.com/PCRedHot/Rayview-Visualisation)
 ![p5.js](https://img.shields.io/badge/-p5dotjs-000000?style=flat&logo=p5dotjs&logoColor=ED225D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
