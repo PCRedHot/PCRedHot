@@ -55,6 +55,7 @@
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
 ## Work Experience
+ * Software Developer at [HKQAI](https://hkqai.com/)
  * Junior Research Assistant at [HKU Business School](https://www.hkubs.hku.hk/)
  * Student Research Assistant at [HKU CS](https://www.cs.hku.hk/)
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
