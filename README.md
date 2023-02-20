@@ -1,4 +1,4 @@
-![banner](https://github.com/PCRedHot/PCRedHot/blob/main/banner.gif)
+<!-- ![banner](https://github.com/PCRedHot/PCRedHot/blob/main/banner.gif) -->
 
 * Undergraduate at [The University of Hong Kong](https://www.hku.hk/)
   * Major - Computer Science 💻
