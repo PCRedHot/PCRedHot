@@ -8,7 +8,7 @@
 ## Some Facts About Me
 * Physics Lover
 * Disney-holic 🐭
-* I like Backend >> Frontend
+* Computational Science
 
 ## Technical Stuff
 
