@@ -61,51 +61,14 @@
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
 
 ## Some Projects I've Worked On
- * [Accounting System](https://github.com/PCRedHot/Accounting-System) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-   * A Simple Accounting System
-   * Account Tracking, Record Transctions, Accounting Reports
- * [P2P Image Sharing System](https://github.com/PCRedHot/P2P_Image_Sharing_System) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-   * A Simple P2P Image Sharing System using ServerSocket
- * [Heart Prediction Project](https://github.com/PCRedHot/EchoProject)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&logoColor=F37626)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=D00000)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=NumPy&logoColor=013243)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=OpenCV&logoColor=5C3EE8)
-![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt&logoColor=41CD52)
-![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=SciPy&logoColor=8CAAE6)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=FF6F00)
-   * Part of Deep Learning Based Heart Prediction Project
-     * Image Filtering
-     * Image Preprocessing
-     * Data Spacing Normalisation
-     * 3D Data View Reconstuction
-     * 3D Data Labelling Program
-     * 3D Data Intersection Controls
-     * Some Data Analysis too
-* [HKU Guide](https://github.com/PCRedHot/hku_guide)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
-   * A Guiding Mobile Application for HKU User 
-* [Hydrogen Atom Visualisation](https://github.com/PCRedHot/Hydrogen-Atom-Visualisation)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-   * Visualisation of Electro Density Distribution of a *3p* Hydrogen Atom
-* [Softbody Simulation](https://github.com/PCRedHot/2D-Softbody-Simulation)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-   * Simulation of a softbody object using spring formula
-* [Rayview Visualisation](https://github.com/PCRedHot/Rayview-Visualisation)
-![p5.js](https://img.shields.io/badge/-p5dotjs-000000?style=flat&logo=p5dotjs&logoColor=ED225D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-   * Visualisation of visibility from a viewpoint
-* [HotZone](https://github.com/PCRedHot/HotZone)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=092E20)
-  * A COVID-19 Transmission Chains / Clusters Identification Program
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=Accounting-System)](https://github.com/PCRedHot/Accounting-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=P2P_Image_Sharing_System)](https://github.com/PCRedHot/P2P_Image_Sharing_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=EchoProject)](https://github.com/PCRedHot/EchoProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=hku_guide)](https://github.com/PCRedHot/hku_guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=Hydrogen-Atom-Visualisation)](https://github.com/PCRedHot/Hydrogen-Atom-Visualisation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=2D-Softbody-Simulation)](https://github.com/PCRedHot/2D-Softbody-Simulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=Rayview-Visualisation)](https://github.com/PCRedHot/Rayview-Visualisation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=HotZone)](https://github.com/PCRedHot/HotZone)
 
 <!--
 **PCRedHot/PCRedHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
