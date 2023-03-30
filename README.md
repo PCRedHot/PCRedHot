@@ -61,7 +61,7 @@
  * Student Research Assistant at [HKU CS](https://www.cs.hku.hk/)
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
 
-## Some Projects I've Worked On
+<!-- ## Some Projects I've Worked On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=Accounting-System)](https://github.com/PCRedHot/Accounting-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=P2P_Image_Sharing_System)](https://github.com/PCRedHot/P2P_Image_Sharing_System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=EchoProject)](https://github.com/PCRedHot/EchoProject)
@@ -70,7 +70,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=2D-Softbody-Simulation)](https://github.com/PCRedHot/2D-Softbody-Simulation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=Rayview-Visualisation)](https://github.com/PCRedHot/Rayview-Visualisation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PCRedHot&repo=HotZone)](https://github.com/PCRedHot/HotZone)
-
+ -->
 <!--
 **PCRedHot/PCRedHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
