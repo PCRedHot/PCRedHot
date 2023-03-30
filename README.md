@@ -56,6 +56,7 @@
 
 ## Work Experience
  * Software Developer at [HKQAI](https://hkqai.com/)
+ * Research Assistant at [EduHK](https://www.eduhk.hk/en/)
  * Junior Research Assistant at [HKU Business School](https://www.hkubs.hku.hk/)
  * Student Research Assistant at [HKU CS](https://www.cs.hku.hk/)
  * Performer at [HKDL](https://www.hongkongdisneyland.com/)
