@@ -1,7 +1,7 @@
 <!-- ![banner](https://github.com/PCRedHot/PCRedHot/blob/main/banner.gif) -->
 
 * Bachelor of Engineering in Computer Science at [The University of Hong Kong](https://www.hku.hk/)
-* Master of Science in Geomaterials and Geochemistry at [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) and [Technical University of Munich](https://www.tum.de/en/)
+* Master of Science in Geophysics at [Ludwig Maximilian University of Munich](https://www.lmu.de/de/index.html) and [Technical University of Munich](https://www.tum.de/en/)
 
 ## Some Facts About Me
 * Physics Lover
