@@ -53,6 +53,7 @@
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
 ## Work Experience
+ * Student Developer at [LMU Geophysics](https://www.geophysik.uni-muenchen.de/en/welcome-to-the-geophysics-homepage)
  * Software Developer at [HKQAI](https://hkqai.com/)
  * Research Assistant at [EduHK](https://www.eduhk.hk/en/)
  * Junior Research Assistant at [HKU Business School](https://www.hkubs.hku.hk/)
