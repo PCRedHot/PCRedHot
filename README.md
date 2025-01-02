@@ -54,6 +54,7 @@
 
 ## Work Experience
  * Student Developer at [LMU Geophysics](https://www.geophysik.uni-muenchen.de/en/welcome-to-the-geophysics-homepage)
+ * Consultant at [D24H](https://www.d24h.hk/) and [C2i](https://www.c2i.hk/)
  * Software Developer at [HKQAI](https://hkqai.com/)
  * Research Assistant at [EduHK](https://www.eduhk.hk/en/)
  * Junior Research Assistant at [HKU Business School](https://www.hkubs.hku.hk/)
